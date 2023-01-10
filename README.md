@@ -30,6 +30,9 @@ THEN the password is either displayed in an alert or written to the page
   
   I first coded in Javascript to prompt the user to discover their criteria for their password. I then validated their inputs to ensure the criteria met the basic criteria to construct a password and that the inputs were valid. I used pseudo coding to describe the process to solve this problem. I then constructed an array to contain all the possible characters in respective categories. I then used java script code and solve for a password according to the user criteria.
 
+ [Image of Website](Screenshot_20230110_183123_Chrome.jpg)
+
+
   * The URL of the deployed application: https://sotiriosc.github.io/password-generator-project/
 
 * The URL of the GitHub repository: https://github.com/sotiriosc/password-generator-project/
