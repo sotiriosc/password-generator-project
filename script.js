@@ -31,17 +31,17 @@ function generatePassword() {
       alert(`Your password will have ${confirmLength} characters`);
 
     // Determine parameters of password 
-    var confirmSpecialCharacter = confirm("Click OK to confirm that you would like to include special characters");
-    var confirmNumericCharacter = confirm("Click OK to confirm that you would like to include numeric characters");    
+    var confirmSpecialCharacter = confirm("Click OK to confirm that you would like to include speci@l characters");
+    var confirmNumericCharacter = confirm("Click OK to confirm that you would like to include num3ric characters");    
     var confirmLowerCase = confirm("Click OK to confirm that you would like to include lowercase characters");
-    var confirmUpperCase = confirm("Click OK to confirm that you would like to include uppercase characters");
+    var confirmUpperCase = confirm("Click OK to confirm that you would like to include UPPERCASE characters");
       // Loop if answer is outside the parameters 
       while(confirmUpperCase === false && confirmLowerCase === false && confirmSpecialCharacter === false && confirmNumericCharacter === false) {
         alert("You must select at least one option");
-        var confirmSpecialCharacter = confirm("Click OK to confirm that you would like to include special characters");
-        var confirmNumericCharacter = confirm("Click OK to confirm that you would like to include numeric characters");    
+        var confirmSpecialCharacter = confirm("Click OK to confirm that you would like to include speci@l characters");
+        var confirmNumericCharacter = confirm("Click OK to confirm that you would like to include num3ric characters");    
         var confirmLowerCase = confirm("Click OK to confirm that you would like to include lowercase characters");
-        var confirmUpperCase = confirm("Click OK to confirm that you would like to include uppercase characters");   
+        var confirmUpperCase = confirm("Click OK to confirm that you would like to include UPPERCASE characters");   
     } 
 
       
