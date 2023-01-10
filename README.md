@@ -29,6 +29,7 @@ THEN the password is either displayed in an alert or written to the page
   I found this challenge a little difficult. I had to do a lot of research to grasp and understand the conecepts required to fulfill this assignment. The first thing I did was review what code was provided to understand how all the code is related to each other. I then used the project guidelines to guide me through completing this assignment. 
   
   I first coded in Javascript to prompt the user to discover their criteria for their password. I then validated their inputs to ensure the criteria met the basic criteria to construct a password and that the inputs were valid. I used pseudo coding to describe the process to solve this problem. I then constructed an array to contain all the possible characters in respective categories. I then used java script code and solve for a password according to the user criteria.
-  
-  Gitlab repo: https://github.com/sotiriosc/password-generator-project/
-  deployed application: https://sotiriosc.github.io/password-generator-project/
+
+  * The URL of the deployed application: https://sotiriosc.github.io/password-generator-project/
+
+* The URL of the GitHub repository: https://github.com/sotiriosc/password-generator-project/
